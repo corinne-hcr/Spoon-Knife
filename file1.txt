@@ -1,4 +1,0 @@
-echo "test file">file1.txt
-:wq
-:wq!
-exit
